@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A simple Flutter app to calculate your Body Mass Index (BMI) and give a quick health interpretation. Built following Angela Yu’s Flutter course structure.
+A simple Flutter app to calculate your Body Mass Index (BMI) and give a quick health interpretation.
 
 ---
 
