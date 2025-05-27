@@ -1,6 +1,3 @@
-Here’s the cleaned-up `README.md` with all Markdown blocks properly closed and formatted:
-
-````markdown
 # BMI Calculator
 
 A simple Flutter app to calculate your Body Mass Index (BMI) and give a quick health interpretation. Built following Angela Yu’s Flutter course structure.
@@ -45,7 +42,6 @@ A simple Flutter app to calculate your Body Mass Index (BMI) and give a quick he
    ```bash
    git clone https://github.com/RahatalDnyanda/BMI_Calculator.git
    cd BMI_Calculator
-````
 
 2. **Install dependencies**
 
@@ -69,6 +65,3 @@ A simple Flutter app to calculate your Body Mass Index (BMI) and give a quick he
 4. Tap **Reset** to clear and start again.
 
 ---
-
-```
-```
